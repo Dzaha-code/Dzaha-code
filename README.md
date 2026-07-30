@@ -54,20 +54,23 @@ motto: "Code it. Automate it. Doodle it."
 <tr>
 <td width="50%">
 
-### 🚀 Project Satu
-Deskripsi singkat project — apa masalahnya, apa solusinya, dan tech stack yang dipakai.
+### 🚀 Creplann - Weekly Planner
+Problem: Weekly tasks often feel messy and hard to track.
+Solution: A clean, simple planner web app to organize goals and deadlines.
 
-`React` `Node.js` `OpenAI API`
 
-[🔗 Live Demo](#) · [📂 Source Code](#)
+`Laravel` `Breeze (Blade/Tailwind)` `MySQL` `Vite` `NPM` `Laragon` 
+
+[🔗 Live Demo](#) · [📂 Source Code](https://github.com/Dzaha-code/Creplann)
 
 </td>
 <td width="50%">
 
-### 🤖 Project Dua
-Automation pipeline pakai AI agent untuk otomatisin proses X jadi lebih cepat & efisien.
+### 🤖 Cremuze
+Problem: Managing playlists and enjoying music seamlessly across devices can feel clunky with traditional players.
+Solution: Cremuze is a lightweight, modern music player that focuses on simplicity, smooth playback, and smart organization.
 
-`n8n` `Python` `LangChain`
+`n8n` `Electron.js` `Laravel ` `SQLite ` `Vite/NPM`
 
 [🔗 Live Demo](#) · [📂 Source Code](#)
 
