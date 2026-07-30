@@ -11,18 +11,19 @@
 ## 🖍️ Tentang Aku
 
 ```yaml
-nama: Dzawan Hafizh
-peran: Web Developer & AI Automation Builder
-fokus:
-  - Membangun web app yang cepat, rapi, dan enak dipakai
-  - Menghubungkan AI ke workflow nyata (automation, chatbot, agent)
-  - Ngulik UI/UX biar produk nggak cuma jalan, tapi juga enak dilihat
-sedang_belajar: [ "LLM Agents", "n8n / workflow automation", "Design Systems" ]
+name: Dzawan Hafizh
+role: Web Developer & AI Automation Builder
+focus:
+  - Building web apps that are fast, clean, and user-friendly
+  - Connecting AI to real workflows (automation, chatbots, agents)
+  - Exploring UI/UX so products not only work but also look great
+currently_learning: [ "LLM Agents", "n8n / workflow automation", "Design Systems" ]
 motto: "Code it. Automate it. Doodle it."
+
 ```
 
 <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100">  
-ijin kompe
+*ngoding santai, hasil serius* 😄
 
 ---
 
@@ -84,15 +85,15 @@ Automation pipeline pakai AI agent untuk otomatisin proses X jadi lebih cepat & 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Dzawan-Hafizh&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&border_radius=15" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dzawan-Hafizh&theme=radical&hide_border=true&background=00000000&border_radius=15" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Dzaha-code&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&border_radius=15" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dzaha-code&theme=radical&hide_border=true&background=00000000&border_radius=15" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dzawan-Hafizh&layout=compact&theme=radical&hide_border=true&bg_color=00000000&border_radius=15" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dzaha-code&layout=compact&theme=radical&hide_border=true&bg_color=00000000&border_radius=15" width="48%"/>
 
 </div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Dzawan-Hafizh&theme=radical&no-frame=true&column=7&margin-w=8&margin-h=8"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Dzaha-code&theme=radical&no-frame=true&column=7&margin-w=8&margin-h=8"/>
 </div>
 
 ---
@@ -100,10 +101,9 @@ Automation pipeline pakai AI agent untuk otomatisin proses X jadi lebih cepat & 
 ## 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Dzawan-Hafizh/Dzawan-Hafizh/output/github-contribution-grid-snake-dark.svg" width="100%">
+<img src="https://raw.githubusercontent.com/Dzaha-code/Dzaha-code/output/github-contribution-grid-snake-dark.svg" width="100%">
 </div>
 
-> 💡 *Butuh setup GitHub Action `snk` biar animasi ini muncul otomatis — lihat catatan di bagian bawah.*
 
 ---
 
@@ -119,7 +119,7 @@ Automation pipeline pakai AI agent untuk otomatisin proses X jadi lebih cepat & 
 </div>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Dzawan-Hafizh&style=flat-square&color=8A2BE2&label=Profile+Views"/>
+<img src="https://komarev.com/ghpvc/?username=Dzaha-code&style=flat-square&color=8A2BE2&label=Profile+Views"/>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
