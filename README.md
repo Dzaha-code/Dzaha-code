@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.gif" alt="Dzakwan Hafizh — Web Developer · AI Automation Engineer" width="100%"/>
+<img src="banner.gif" alt="Dzakwan Hafizh — Web Developer · AI Automation Engineer" width="100%"/>
 
 <br/>
 
